@@ -34,14 +34,17 @@ Este é um projeto Java que implementa uma classe simples chamada `Conta`, repre
 - **Verificação de Saque Negado**
   - `saque_negado_pois_o_cliente_n_o_tem_saldo_suficiente()`: Verifica se o saque é negado devido ao saldo insuficiente.
 
-### 4. Métodos Auxiliares
+### 4. Execução e resultado dos Testes
 
-- **Verificação de Cliente Especial**
-  - `check_more_outcomes()`: Verifica se o cliente é especial.
+> Primeiro teste
+![print1](https://github.com/jramoss02/BDD-conta/assets/77749469/6571cf04-1ac9-4a58-b86a-31330c4270ee)
+- Feito após a criação do arquivo de testes.
 
-- **Verificação de Saque Não Efetuado**
-  - `não_deve_efetuar_o_saque_e_deve_retornar_a_mensagem_de_saldo_insuficiente()`: Verifica se o saque não foi efetuado e retorna a mensagem de saldo insuficiente.
+> Segundo teste
+![print2](https://github.com/jramoss02/BDD-conta/assets/77749469/ac600f41-5cda-4a3b-bfa7-215f993d8e4e)
+- Primeira vez rodando o teste utilizando JUnit, a partir desse ponto, utilizei as sugestões para desenvolver o resto da aplicação.
 
-### 5. Execução de Testes
+> Teste final
+![print3](https://github.com/jramoss02/BDD-conta/assets/77749469/be0ec9ca-efd5-4e4f-b4f0-3a50fc37b7b1)
+- Realizado após todas as implementações das sugestões.
 
-Execute os testes para garantir o correto funcionamento das funcionalidades.
